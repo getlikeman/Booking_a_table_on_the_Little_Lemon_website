@@ -1,0 +1,26 @@
+@import "bootstrap";
+:root {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+.heroImage {
+  background: url("/oho+08+website+size.jpg") no-repeat center border-box;
+  height: 60vh;
+  filter: motionBlur(10px);
+}
+.pmBtn{
+  width: 20px;
+  margin: 0;
+  padding: 0;
+}
+.errM{
+  height: 20px;
+}
